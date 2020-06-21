@@ -1,4 +1,4 @@
-# IT251 DSa Project on Suffix Trees
+# IT251 DSA Project on Suffix Trees
 
 ## Description
 Suffix Tree is constructed in linear time using Ukkonen's algorithm. This tree is used to carry out 3 different applications on a dataset of 312 short stories from Aesop's Fables.
