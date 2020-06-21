@@ -5,9 +5,9 @@ Suffix Tree is constructed in linear time using Ukkonen's algorithm. This tree i
 
 These applications are:
 1. Finding all occurences of a string in the stories
-2. Find the first occurence of a string. If not found, find the first occurence of the longest substring of of string
+2. Find the first occurence of a string. If not found, find the first occurence of the longest substring of string
 3. Find and rank all stories for a given string according to certain rules
-   Rules:
+   -Rules:
    1. If the whole substring is found in a story, score = 150
 	 2. If all words in the string are found, (need not be consecutive), score = 75
 	 3. If a substring of string is found: 
